@@ -1,0 +1,18 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="1.51807" x2="2.0198" y1="0.07562" x1="-0.4787" id="linear-gradient">
+   <stop stop-color="#aa5cc3" offset="0"/>
+   <stop stop-color="#00a4dc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title>banner-dark</title>
+ <g>
+  <title>Layer 1</title>
+  <g id="banner-dark">
+   <g id="banner-dark-icon">
+    <path fill="url(#linear-gradient)" d="m256.02993,201.62356c-20.44,0 -86.24,119.29 -76.2,139.43s142.48,19.92 152.4,0s-55.76,-139.42 -76.2,-139.43z" id="inner-shape"/>
+    <path fill="url(#linear-gradient)" d="m256.02993,23.30356c-61.59,0 -259.85,359.43 -229.62,420.13s429.34,60 459.24,0s-168.04,-420.13 -229.62,-420.13zm150.48,367.46c-19.59,39.33 -281.08,39.77 -300.9,0s110.1,-275.28 150.45,-275.28s170.04,235.94 150.45,275.28z" id="outer-shape"/>
+   </g>
+  </g>
+ </g>
+</svg>
