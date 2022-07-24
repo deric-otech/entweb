@@ -41,6 +41,13 @@ colors:
     link: "#3273dc"
     link-hover: "#ffdd57"
 
+links:
+  - name: "Desktop"
+    #Change Youtube Mobile page (usually happens automatically in TVBox) to Youtube Desktop page
+    icon: "fa-brands fa-youtube"
+#    icon: "fab fa-youtube-square"
+    url: "https://www.youtube.com/index?persist_app=1&app=desktop"
+
 services:
   - name: "Ent Web"
     icon: "fas fa-cloud-sun"
@@ -61,32 +68,13 @@ services:
   - name: "Youtube Playlist"
     icon: "fa-brands fa-youtube"
     items:
-      - name: "Playlist 1"
-        logo: "./assets/tools/youtube.svg"
-        #subtitle: "WebUI for Rclone"
-        url: "https://www.youtube.com/watch?v=xAVfnKS-Cl8?app=desktop"
-        #target: "_blank"
-      - name: "Playlist 2"
+      - name: "Playlist"
         logo: "./assets/tools/youtube.svg"
         #subtitle: "WebUI for Rclone"
         url: "https://www.youtube.com/playlist?list=PLzcpmqe6SErl1qCMtZwqq2tSoQGyTaNkq"
-        #target: "_blank"
-      - name: "Youtube Desktop Version"
-        logo: "./assets/tools/youtube.svg"
-        subtitle: "Reset to Youtube Desktop Version"
-        url: "https://www.youtube.com/index?persist_app=1&app=desktop"
         #target: "_blank"
       - #For Custom Created Youtube Playlist
         name: "琉璃"
         logo: "https://www.i0856.com/annex/vod/2022-02/07/7897c8f970701cd17a1a896d6309591c.jpg"
         url: "https://www.youtube.com/playlist?list=PL4P1OCiJ7Wk-Jm4dyVGqvRlwwIE41YwK2"
         #url: "https://www.i0856.com/play/9325.html"
-
-#Add to end of Youtube URL ?app=desktop to disable youtube automatic change to mobile version
-
-      - #For Custom Created Youtube Playlist
-        #name: "Others"
-        #logo: "./assets/tools/youtube.svg"
-        #subtitle: "WebUI for Rclone"
-        #url: "https://www.youtube.com/playlist?list=PLRysEvKyzrqtZV4jZpO689Zxg1aHp0HLo?app=desktop"
-        #target: "_blank"
