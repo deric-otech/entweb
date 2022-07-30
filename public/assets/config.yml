@@ -54,7 +54,7 @@ services:
     items:
       - name: "JellyFin"
         logo: "./assets/tools/jellyfin.svg"
-        url: "http://192.168.1.11:8096"
+        url: "http://192.168.1.1:8096"
         #target: "_blank"
       - name: "TV2"
         logo: "./assets/tools/TV2.png"
@@ -74,7 +74,7 @@ services:
         url: "https://www.youtube.com/playlist?list=PLzcpmqe6SErl1qCMtZwqq2tSoQGyTaNkq"
         #target: "_blank"
       - #For Custom Created Youtube Playlist
-        name: "琉璃"
+        name: "东宫"
         logo: "https://www.i0856.com/annex/vod/2022-02/07/7897c8f970701cd17a1a896d6309591c.jpg"
-        url: "https://www.youtube.com/playlist?list=PL4P1OCiJ7Wk-Jm4dyVGqvRlwwIE41YwK2"
+        url: "https://www.youtube.com/playlist?list=PL0Rq7IGOfym6wgrz0Q9UA39_D7mtm0RZ4"
         #url: "https://www.i0856.com/play/9325.html"
