@@ -75,6 +75,6 @@ services:
         #target: "_blank"
       - #For Custom Created Youtube Playlist
         name: "东宫"
-        logo: "http://pix2.tvzhe.com/thumb/drama/71/237/540x303.jpg"
+        logo: "https://upload.wikimedia.org/wikipedia/zh/thumb/c/cc/Good_Bye_My_Princess.png/375px-Good_Bye_My_Princess.png"
         url: "https://www.youtube.com/playlist?list=PL0Rq7IGOfym6wgrz0Q9UA39_D7mtm0RZ4"
         #url: "https://www.i0856.com/play/9325.html"
