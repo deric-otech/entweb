@@ -75,6 +75,6 @@ services:
         #target: "_blank"
       - #For Custom Created Youtube Playlist
         name: "东宫"
-        logo: "https://www.i0856.com/annex/vod/2022-02/07/7897c8f970701cd17a1a896d6309591c.jpg"
+        logo: "http://pix2.tvzhe.com/thumb/drama/71/237/540x303.jpg"
         url: "https://www.youtube.com/playlist?list=PL0Rq7IGOfym6wgrz0Q9UA39_D7mtm0RZ4"
         #url: "https://www.i0856.com/play/9325.html"
