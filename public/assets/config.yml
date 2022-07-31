@@ -62,7 +62,7 @@ services:
         #target: "_blank"
       - name: "TV2"
         logo: "./assets/tools/TV2.png"
-        url: "https://rtmklik.rtm.gov.my/tv/2"
+        url: "https://rtmklik.rtm.gov.my/live/2"
         #target: "_blank"
       - name: "TV3, NTV7, 8TV"
         logo: "./assets/tools/Tonton.png"
