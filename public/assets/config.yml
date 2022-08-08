@@ -72,6 +72,10 @@ services:
   - name: "Youtube Playlist"
     icon: "fa-brands fa-youtube"
     items:
+      - name: "小宝影院"
+        logo: "https://xiaoheimi.net/template/mytheme/statics/image/20211025/25ef538a6.png"
+        url: "https://xiaoheimi.net/index.php/vod/show/area/%E5%A4%A7%E9%99%86/id/2/year/2022.html"
+        #target: "_blank"
       - name: "Playlist"
         logo: "./assets/tools/youtube.svg"
         #subtitle: "WebUI for Rclone"
