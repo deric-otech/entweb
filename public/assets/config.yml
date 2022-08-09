@@ -68,6 +68,10 @@ services:
         logo: "./assets/tools/Tonton.png"
         url: "https://www.xtra.com.my/live-tv/"
         #target: "_blank"
+      - name: "把关者们"
+        logo: "https://img.if101.tv/ximgs/183af537d926aa5c07f6976ec949215425181889e7751abb1d7039f709471d90626dfba30d2260a65ff0d2b1e6b599dc.jpg"
+        url: "https://xiaoheimi.net/index.php/vod/play/id/314/sid/1/nid/1.html"
+        #target: "_blank"
 
   - name: "Youtube Playlist"
     icon: "fa-brands fa-youtube"
