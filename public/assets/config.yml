@@ -48,8 +48,10 @@ links:
 #    icon: "fab fa-youtube-square"
     url: "https://www.youtube.com/index?persist_app=1&app=desktop"
   - name: "Adblock +"
-    icon: "https://cdn8.bunkr.is/AdBlock-Plus-favicon-zn1mSsjr.ico"
-#    icon: "fab fa-youtube-square"
+#    icon: "https://cdn8.bunkr.is/AdBlock-Plus-favicon-zn1mSsjr.ico"
+#    icon: "fa-solid fa-ban"
+#    icon: ""
+    icon: "fa-solid fa-shield-halved"
     url: "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb"
 
 services:
