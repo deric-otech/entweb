@@ -60,8 +60,8 @@ services:
     items:
       - name: "JellyFin 2"
         logo: "./assets/tools/jellyfin.svg"
-        #url: "http://192.168.1.11:8096"
-        url: "https://cdn4.bunkr.is/IMG_20220922_090823-gebzqIAu.jpg"
+        url: "http://192.168.1.11:8096"
+        #url: "https://cdn4.bunkr.is/IMG_20220922_090823-gebzqIAu.jpg"
         #target: "_blank"
       - name: "JellyFin 1"
         logo: "./assets/tools/jellyfin.svg"
