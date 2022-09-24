@@ -79,6 +79,9 @@ services:
         logo: "https://img.if101.tv/ximgs/183af537d926aa5c07f6976ec949215425181889e7751abb1d7039f709471d90626dfba30d2260a65ff0d2b1e6b599dc.jpg"
         url: "https://xiaoheimi.net/index.php/vod/play/id/314/sid/1/nid/1.html"
         #target: "_blank"
+      - name: "庆余年"
+        logo: "https://img.if101.tv/ximgs/6874fd94b062574f68313e7173ea5fd0f87ef992c3bc23aaf986ef27d91a2103.gif"
+        url: "https://xiaoheimi.net/index.php/vod/play/id/27358/sid/1/nid/1.html"
 
   - name: "Youtube Playlist"
     icon: "fa-brands fa-youtube"
